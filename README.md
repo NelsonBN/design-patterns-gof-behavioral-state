@@ -1,8 +1,5 @@
 # GoF - Behavioral - State
 
-[Home](../../../README.md)
-
-
 - [UML Diagram](#uml-diagram)
 - [State orquestration](#state-orquestration)
 - [Pos and Cons](#pos-and-cons)
@@ -34,3 +31,4 @@ The state pattern isn't opinionated about how the state is orquestrated. We can 
 
 ## References
 - [doFactory](https://www.dofactory.com/net/state-design-pattern)
+- [Other Design Patterns](https://github.com/NelsonBN/design-patterns)
