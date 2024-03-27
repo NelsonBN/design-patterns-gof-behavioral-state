@@ -2,7 +2,7 @@
 
 - [UML Diagram](#uml-diagram)
 - [State orquestration](#state-orquestration)
-- [Pos and Cons](#pos-and-cons)
+- [Pros and Cons](#pros-and-cons)
 - [References](#references)
 
 
@@ -20,7 +20,7 @@ The state pattern isn't opinionated about how the state is orquestrated. We can 
 - **Orquestrated by client**: The client is responsible for changing the state. The usualy pass the context as a parameter to the state.
 
 
-## Pos and Cons
+## Pros and Cons
 
 - ✅ Clean code
 - ✅ Single Responsibility Principle
